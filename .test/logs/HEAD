@@ -1,0 +1,140 @@
+0000000000000000000000000000000000000000 f96304dbb0fcad24f6de65a2a76587b3318a9961 Hamza@eL <choctitanz@gmail.com> 1685707269 +0100	clone: from https://gitlab.com/Shintai-X/pfav2-gitlab
+f96304dbb0fcad24f6de65a2a76587b3318a9961 bca7a58cfd0a8a2cf508d9cc214a34ab54455a6a Hamza@eL <choctitanz@gmail.com> 1687003270 +0100	commit: Added terraform
+bca7a58cfd0a8a2cf508d9cc214a34ab54455a6a 6703370b05b588719f7182e7d290e0f9bcdc4ee7 Hamza@eL <choctitanz@gmail.com> 1687003465 +0100	commit (merge): Added terraform
+6703370b05b588719f7182e7d290e0f9bcdc4ee7 27224dee0d0648b544742415122a64b5cb80ed38 Hamza@eL <choctitanz@gmail.com> 1687003624 +0100	commit: Added terraform
+27224dee0d0648b544742415122a64b5cb80ed38 27224dee0d0648b544742415122a64b5cb80ed38 Hamza@eL <choctitanz@gmail.com> 1687004169 +0100	reset: moving to HEAD
+27224dee0d0648b544742415122a64b5cb80ed38 f96304dbb0fcad24f6de65a2a76587b3318a9961 Hamza@eL <choctitanz@gmail.com> 1687004192 +0100	reset: moving to HEAD~3
+f96304dbb0fcad24f6de65a2a76587b3318a9961 af92975a1ccb54c7a2d7b230c0535654b973a267 Hamza@eL <choctitanz@gmail.com> 1687004219 +0100	commit: Terraform
+af92975a1ccb54c7a2d7b230c0535654b973a267 3e74a3181c874ed6438e11bb79ea261b27279f8d Hamza@eL <choctitanz@gmail.com> 1687004287 +0100	commit (merge): Added Terraform
+3e74a3181c874ed6438e11bb79ea261b27279f8d 6b4020dbadae70fb2d704f843a76d1073c1c2c16 Hamza@eL <choctitanz@gmail.com> 1687010319 +0100	commit: Modify to VM
+6b4020dbadae70fb2d704f843a76d1073c1c2c16 e45de2ecfe0c4f7bae49596c4e1ede38fd558345 Hamza@eL <choctitanz@gmail.com> 1687037629 +0100	commit: Test Fix
+e45de2ecfe0c4f7bae49596c4e1ede38fd558345 4410b4c19f979f49c4abcd906ab369c1b0f1ec87 Hamza@eL <choctitanz@gmail.com> 1687048381 +0100	commit: Added Terraform
+4410b4c19f979f49c4abcd906ab369c1b0f1ec87 cf4f223108f22b48287ecb7d3cbf8303035e610c Hamza@eL <choctitanz@gmail.com> 1687048428 +0100	commit: Added Terraform
+cf4f223108f22b48287ecb7d3cbf8303035e610c 214b8670c64630419703a3a06a085ff9370d6297 Hamza@eL <choctitanz@gmail.com> 1687049063 +0100	commit: Added Terraform
+214b8670c64630419703a3a06a085ff9370d6297 f0f206729ce7a9fea5a1cb296701a007384083c1 Hamza@eL <choctitanz@gmail.com> 1687049152 +0100	commit: Added Terraform
+f0f206729ce7a9fea5a1cb296701a007384083c1 7132c6f5682444974eda1a4aa32e5860a9cfe751 Hamza@eL <choctitanz@gmail.com> 1687049820 +0100	commit: Added SSH variable
+7132c6f5682444974eda1a4aa32e5860a9cfe751 303ce601e168fb9ab7ffdf0dd54c0c36dd90a91c Hamza@eL <choctitanz@gmail.com> 1687049895 +0100	commit: Added SSH variable
+303ce601e168fb9ab7ffdf0dd54c0c36dd90a91c 6ce56e469ae7f104243480963c9f2f1a69119dc1 Hamza@eL <choctitanz@gmail.com> 1687050364 +0100	commit: Added SSH variable
+6ce56e469ae7f104243480963c9f2f1a69119dc1 373e706fd2c8d529bae42dd3ec53f9da8ae71473 Hamza@eL <choctitanz@gmail.com> 1687117138 +0100	commit: Added variable
+373e706fd2c8d529bae42dd3ec53f9da8ae71473 e6c841e7a06af0bda1f4db2354c8f673130a6ffe Hamza@eL <choctitanz@gmail.com> 1687117729 +0100	commit: Added variable
+e6c841e7a06af0bda1f4db2354c8f673130a6ffe 376ab7be00f01f94e9ed7217af84b99ac2bbad15 Hamza@eL <choctitanz@gmail.com> 1687118097 +0100	commit: Added variable
+376ab7be00f01f94e9ed7217af84b99ac2bbad15 32400751c4157054cbe6d6993fba91efe3b3c7c0 Hamza@eL <choctitanz@gmail.com> 1687118196 +0100	commit: Added variable
+32400751c4157054cbe6d6993fba91efe3b3c7c0 e4544fa9e22292e7b07597e0743a672d87df6321 Hamza@eL <choctitanz@gmail.com> 1687118320 +0100	commit: Added variable
+e4544fa9e22292e7b07597e0743a672d87df6321 4b89f30c74f0a7f20a75bce05f058fc78f30993e Hamza@eL <choctitanz@gmail.com> 1687119270 +0100	commit: Added variable
+4b89f30c74f0a7f20a75bce05f058fc78f30993e 269e57dc2be6c889a4503eb7b317241aa73adfe2 Hamza@eL <choctitanz@gmail.com> 1687119370 +0100	commit: Added variable
+269e57dc2be6c889a4503eb7b317241aa73adfe2 922aa7b0789166bb919cc007483b2690e0b1b6e4 Hamza@eL <choctitanz@gmail.com> 1687119459 +0100	commit: Added variable
+922aa7b0789166bb919cc007483b2690e0b1b6e4 4d0a10c44f535d40a04674ddea992daa36d1edf7 Hamza@eL <choctitanz@gmail.com> 1687119584 +0100	commit: Added variable
+4d0a10c44f535d40a04674ddea992daa36d1edf7 c3132fc9ed249a8f294bb18cbc4ae0bbbe6f2b2a Hamza@eL <choctitanz@gmail.com> 1687119922 +0100	commit: fix
+c3132fc9ed249a8f294bb18cbc4ae0bbbe6f2b2a c562bc68bb72d31d8963da01198c952e2546cb1c Hamza@eL <choctitanz@gmail.com> 1687135831 +0100	commit: small test
+c562bc68bb72d31d8963da01198c952e2546cb1c d5ebd7e84a758b1e8f95a4f6d7f113892ac8cdc6 Hamza@eL <choctitanz@gmail.com> 1687135925 +0100	commit: small test
+d5ebd7e84a758b1e8f95a4f6d7f113892ac8cdc6 6c6e54f6b5ee504c0974045e16d5fcee2d918cad Hamza@eL <choctitanz@gmail.com> 1687136408 +0100	commit: test again
+6c6e54f6b5ee504c0974045e16d5fcee2d918cad ccc48512fb3920a1805478d87620de32707013f5 Hamza@eL <choctitanz@gmail.com> 1687136580 +0100	commit: test again
+ccc48512fb3920a1805478d87620de32707013f5 6fffaebf7c53a240f4111d7b3257a4e008e83735 Hamza@eL <choctitanz@gmail.com> 1687136765 +0100	commit: test again
+6fffaebf7c53a240f4111d7b3257a4e008e83735 2a6106c576b6f2f07b7742a4b4a3633c17781267 Hamza@eL <choctitanz@gmail.com> 1687136917 +0100	commit: test again
+2a6106c576b6f2f07b7742a4b4a3633c17781267 1cbd3d2161870dddd02cd70457d486505b506cee Hamza@eL <choctitanz@gmail.com> 1687137062 +0100	commit: test again
+1cbd3d2161870dddd02cd70457d486505b506cee d032ac20d813995cd4cd0b7cce0cd927fdbb51ee Hamza@eL <choctitanz@gmail.com> 1687137111 +0100	commit: test again
+d032ac20d813995cd4cd0b7cce0cd927fdbb51ee cc6dda3c8b190e5bac195b9729dacb2935685e85 Hamza@eL <choctitanz@gmail.com> 1687137257 +0100	commit: test again
+cc6dda3c8b190e5bac195b9729dacb2935685e85 181068a97a8b4b0e48555fe513f0f035cf8e8910 Hamza@eL <choctitanz@gmail.com> 1687137483 +0100	commit: test again
+181068a97a8b4b0e48555fe513f0f035cf8e8910 b56745a2a830b6fbbe8e66847029f91a39d6dbbb Hamza@eL <choctitanz@gmail.com> 1687224536 +0100	commit: test
+b56745a2a830b6fbbe8e66847029f91a39d6dbbb 696345f0ce2eac3c8833ee93e3b29c76b5e9e559 Hamza@eL <choctitanz@gmail.com> 1687224600 +0100	commit: test
+696345f0ce2eac3c8833ee93e3b29c76b5e9e559 f6ae1aad64275f605d332721c1a3563f5177876f Hamza@eL <choctitanz@gmail.com> 1687224931 +0100	commit: test
+f6ae1aad64275f605d332721c1a3563f5177876f 4d9d6d21f8be866b949a71ceb7000d68a65137e1 Hamza@eL <choctitanz@gmail.com> 1687225031 +0100	commit: test
+4d9d6d21f8be866b949a71ceb7000d68a65137e1 8e30263991dc6f5015da078d175eafae3e8c593d Hamza@eL <choctitanz@gmail.com> 1687225151 +0100	commit: test
+8e30263991dc6f5015da078d175eafae3e8c593d e9cc48c9b26e770248fece951c947fc3def8b449 Hamza@eL <choctitanz@gmail.com> 1687225314 +0100	commit: test
+e9cc48c9b26e770248fece951c947fc3def8b449 fafbb3a69fec358b9078e440390802afc5ba08e9 Hamza@eL <choctitanz@gmail.com> 1687225447 +0100	commit: test
+fafbb3a69fec358b9078e440390802afc5ba08e9 889cd3ca9261e6c36dab6e3168429aaf1cf93a96 Hamza@eL <choctitanz@gmail.com> 1687225570 +0100	commit: test
+889cd3ca9261e6c36dab6e3168429aaf1cf93a96 61efafd138682d32307d8e5ec3af461b24cfc944 Hamza@eL <choctitanz@gmail.com> 1687226404 +0100	commit: test
+61efafd138682d32307d8e5ec3af461b24cfc944 a6738973466849ad0a3b608620ae10d4896e7dc9 Hamza@eL <choctitanz@gmail.com> 1687226555 +0100	commit: test
+a6738973466849ad0a3b608620ae10d4896e7dc9 4c797092a05410e7fac1c754b14674d36c547085 Hamza@eL <choctitanz@gmail.com> 1687226684 +0100	commit: test
+4c797092a05410e7fac1c754b14674d36c547085 aeca817d7e5df0b655400381e2ce2276c13553ae Hamza@eL <choctitanz@gmail.com> 1687226798 +0100	commit: test
+aeca817d7e5df0b655400381e2ce2276c13553ae 68cf4cb354de5e0abaaf362cc2fe7baedee594f0 Hamza@eL <choctitanz@gmail.com> 1687227054 +0100	commit: test
+68cf4cb354de5e0abaaf362cc2fe7baedee594f0 20bd67c55712874fc6f1cd0132d4209ccd5ab9ba Hamza@eL <choctitanz@gmail.com> 1687227204 +0100	commit: test
+20bd67c55712874fc6f1cd0132d4209ccd5ab9ba 1f85f130e22c652563a879d7e48e8d07677c4955 Hamza@eL <choctitanz@gmail.com> 1687227952 +0100	commit: test
+1f85f130e22c652563a879d7e48e8d07677c4955 8a7d2a3718aabafe096413b1c15cdbdd4566e575 Hamza@eL <choctitanz@gmail.com> 1687228348 +0100	commit: test
+8a7d2a3718aabafe096413b1c15cdbdd4566e575 86ba8c7ec56570dbdbcfacacaefff965cd56d1e9 Hamza@eL <choctitanz@gmail.com> 1687230163 +0100	commit: Terra
+86ba8c7ec56570dbdbcfacacaefff965cd56d1e9 d7fc0ff6984d0728d5d60bc816af784315957f8f Hamza@eL <choctitanz@gmail.com> 1687230227 +0100	commit: Terra
+d7fc0ff6984d0728d5d60bc816af784315957f8f fb0d6dca47814adff77daf441814cf858245745e Hamza@eL <choctitanz@gmail.com> 1687230266 +0100	commit: Terra
+fb0d6dca47814adff77daf441814cf858245745e 02a085ae81bdddcb985e904829e7be0458e375d4 Hamza@eL <choctitanz@gmail.com> 1687230332 +0100	commit: Terra
+02a085ae81bdddcb985e904829e7be0458e375d4 d055b5df4a15c5c0addd30fe93862aa2dab89a19 Hamza@eL <choctitanz@gmail.com> 1687303257 +0100	commit: test
+d055b5df4a15c5c0addd30fe93862aa2dab89a19 359058364b4dd98b4347c1d71692f46ef41bffbf Hamza@eL <choctitanz@gmail.com> 1687303884 +0100	commit: test
+359058364b4dd98b4347c1d71692f46ef41bffbf 731c3f738b3a7175a45647dc370d77c03b343687 Hamza@eL <choctitanz@gmail.com> 1687303970 +0100	commit: test
+731c3f738b3a7175a45647dc370d77c03b343687 d4827b05498d1566119c11cdedec5028c039824b Hamza@eL <choctitanz@gmail.com> 1687303998 +0100	commit: test
+d4827b05498d1566119c11cdedec5028c039824b 9764d028a4c1e1b222cccc2b1b3ba9ebbd0ce60d Hamza@eL <choctitanz@gmail.com> 1687304127 +0100	commit: test
+9764d028a4c1e1b222cccc2b1b3ba9ebbd0ce60d 7139c207663127805068fa454caac1f41967be5f Hamza@eL <choctitanz@gmail.com> 1687304410 +0100	commit: test
+7139c207663127805068fa454caac1f41967be5f ee6993f47bb42a86820afd3dc7b0afc9ca2f1c09 Hamza@eL <choctitanz@gmail.com> 1687304727 +0100	commit: test
+ee6993f47bb42a86820afd3dc7b0afc9ca2f1c09 a412807c45885291a7550a6626fcfe6007706f8e Hamza@eL <choctitanz@gmail.com> 1687304941 +0100	commit: test
+a412807c45885291a7550a6626fcfe6007706f8e f9ca50439f055d16efe2d0355206558bc6826921 Hamza@eL <choctitanz@gmail.com> 1687305134 +0100	commit: test
+f9ca50439f055d16efe2d0355206558bc6826921 9556df2247fbf7f0c1a3a4a0118b755489aff1d1 Hamza@eL <choctitanz@gmail.com> 1687305767 +0100	commit: test
+9556df2247fbf7f0c1a3a4a0118b755489aff1d1 e6c65feed912b038ce61cd8d11967899553cf704 Hamza@eL <choctitanz@gmail.com> 1687306038 +0100	commit: test
+e6c65feed912b038ce61cd8d11967899553cf704 c7db1dcd6bd14a7e79f6756e2898eb0fcff5e305 Hamza@eL <choctitanz@gmail.com> 1687306063 +0100	commit: test
+c7db1dcd6bd14a7e79f6756e2898eb0fcff5e305 bd52377d046e17316e4d41591defd8faaa8da8e8 Hamza@eL <choctitanz@gmail.com> 1687306202 +0100	commit: test
+bd52377d046e17316e4d41591defd8faaa8da8e8 b6509ddf0785a9656bcc6e755f2f67a5fed065cd Hamza@eL <choctitanz@gmail.com> 1687306427 +0100	commit: test
+b6509ddf0785a9656bcc6e755f2f67a5fed065cd 1de05c57f0d63afd9054ab38b20cdb3c08fc89b7 Hamza@eL <choctitanz@gmail.com> 1687306736 +0100	commit: test
+1de05c57f0d63afd9054ab38b20cdb3c08fc89b7 e949590b65f811ab0b7215d28561db8fb96dcd36 Hamza@eL <choctitanz@gmail.com> 1687307016 +0100	commit: test
+e949590b65f811ab0b7215d28561db8fb96dcd36 b15ece009ef15142416f05c4c6f9bdf831ab21e6 Hamza@eL <choctitanz@gmail.com> 1687307470 +0100	commit: test
+b15ece009ef15142416f05c4c6f9bdf831ab21e6 d53a944be50f4950332745b06bb2ecb5a1475599 Hamza@eL <choctitanz@gmail.com> 1687778943 +0100	commit: Revert
+d53a944be50f4950332745b06bb2ecb5a1475599 2fdb49b9ec70fb828f3b7d542421c306caf6b475 Hamza@eL <choctitanz@gmail.com> 1687781258 +0100	commit: Blob storage
+2fdb49b9ec70fb828f3b7d542421c306caf6b475 befc63b3244024d91027ad3f08da1dac9bc5b535 Hamza@eL <choctitanz@gmail.com> 1687781458 +0100	commit: Blob storage
+befc63b3244024d91027ad3f08da1dac9bc5b535 d6651961cb136007c59a534af60fb2312ac228ea Hamza@eL <choctitanz@gmail.com> 1687781536 +0100	commit: Blob storage
+d6651961cb136007c59a534af60fb2312ac228ea 3b0329cafa9261b7010ef7095e93b67a2687122e Hamza@eL <choctitanz@gmail.com> 1687781607 +0100	commit: Blob storage
+3b0329cafa9261b7010ef7095e93b67a2687122e e2965fd2d742297063c10ddbc85a31d2b06019c0 Hamza@eL <choctitanz@gmail.com> 1687781972 +0100	commit: HTTP state
+e2965fd2d742297063c10ddbc85a31d2b06019c0 ef6d41ccb2a959d8f733ca4770f42c47c6071770 Hamza@eL <choctitanz@gmail.com> 1687790490 +0100	commit: HTTP state
+ef6d41ccb2a959d8f733ca4770f42c47c6071770 7207bf849795fc6f54e617cbc6c1fc6adcc3cdc1 Hamza@eL <choctitanz@gmail.com> 1687790556 +0100	commit: HTTP state
+7207bf849795fc6f54e617cbc6c1fc6adcc3cdc1 75819b3b6c813b96406ae848458f4dcc4bd03ffa Hamza@eL <choctitanz@gmail.com> 1687790613 +0100	commit: HTTP state
+75819b3b6c813b96406ae848458f4dcc4bd03ffa 8bda35cec446209043e17f8639a0a431ab8fcaad Hamza@eL <choctitanz@gmail.com> 1687790677 +0100	commit: HTTP state
+8bda35cec446209043e17f8639a0a431ab8fcaad b6c7bae5597c24c669b5a9d2fd0acca1b7d5d615 Hamza@eL <choctitanz@gmail.com> 1687790716 +0100	commit: HTTP state
+b6c7bae5597c24c669b5a9d2fd0acca1b7d5d615 678b154e93f32f77081966e1d79ea0cabd497c4a Hamza@eL <choctitanz@gmail.com> 1687790835 +0100	commit: HTTP state
+678b154e93f32f77081966e1d79ea0cabd497c4a 62aacb2c96454153bc4332ef766c516a62541dc7 Hamza@eL <choctitanz@gmail.com> 1687790885 +0100	commit: HTTP state
+62aacb2c96454153bc4332ef766c516a62541dc7 43f36864ffde4b15c575a227136cc551b879ad15 Hamza@eL <choctitanz@gmail.com> 1687791026 +0100	commit: Blob storage
+43f36864ffde4b15c575a227136cc551b879ad15 cc7ad2efc4b6ca9f0fe3881215f3661938d1d070 Hamza@eL <choctitanz@gmail.com> 1687792989 +0100	commit: Blob storage
+cc7ad2efc4b6ca9f0fe3881215f3661938d1d070 7197979596e977b1046070c75442530548e3d925 Hamza@eL <choctitanz@gmail.com> 1687793146 +0100	commit: Blob storage
+7197979596e977b1046070c75442530548e3d925 4261649d8baca56ffb71c585921ed22cf9007e1d Hamza@eL <choctitanz@gmail.com> 1687793188 +0100	commit: Blob storage
+4261649d8baca56ffb71c585921ed22cf9007e1d 3f11caa6cdf159b1a28261e0381a06e7b4111746 Hamza@eL <choctitanz@gmail.com> 1687793388 +0100	commit: Blob storage
+3f11caa6cdf159b1a28261e0381a06e7b4111746 39c282cf3ab730716c8e0cc4efa28b3cf2c12ab0 Hamza@eL <choctitanz@gmail.com> 1687793682 +0100	commit: Blob storage
+39c282cf3ab730716c8e0cc4efa28b3cf2c12ab0 902fbb949c27739e761ca9fca8ece74983e53af5 Hamza@eL <choctitanz@gmail.com> 1687793770 +0100	commit: Blob storage
+902fbb949c27739e761ca9fca8ece74983e53af5 f6f9a4cd57876805d5190c78bf648e3c15a4e56b Hamza@eL <choctitanz@gmail.com> 1687794456 +0100	commit: Added sleep to exec block
+f6f9a4cd57876805d5190c78bf648e3c15a4e56b e194f8718cf1d3fb0f48c1f053554a866975341a Hamza@eL <choctitanz@gmail.com> 1687795020 +0100	commit: Added sleep to exec block
+e194f8718cf1d3fb0f48c1f053554a866975341a ef190f31257d4f0123da8d8bc67ec5368d28fdd0 Hamza@eL <choctitanz@gmail.com> 1687795094 +0100	commit: Added sleep to exec block
+ef190f31257d4f0123da8d8bc67ec5368d28fdd0 5bd3439cb73d2d8f6efa77cb5279606a319e5e88 Hamza@eL <choctitanz@gmail.com> 1687795152 +0100	commit: Added sleep to exec block
+5bd3439cb73d2d8f6efa77cb5279606a319e5e88 1f661297d08c4df1f3b5718833397af0c7b31f6d Hamza@eL <choctitanz@gmail.com> 1687795252 +0100	commit: Added sleep to exec block
+1f661297d08c4df1f3b5718833397af0c7b31f6d 941eff5f7f2b90d31b06e62d65128733f66c95dc Hamza@eL <choctitanz@gmail.com> 1687795287 +0100	commit: Added sleep to exec block
+941eff5f7f2b90d31b06e62d65128733f66c95dc 4923e0343870cbc162cda9cc11b4c843ea285d95 Hamza@eL <choctitanz@gmail.com> 1687795331 +0100	commit: Added sleep to exec block
+4923e0343870cbc162cda9cc11b4c843ea285d95 d72f538d292b369881ba77b836b473ecd7965afb Hamza@eL <choctitanz@gmail.com> 1687795371 +0100	commit: Added sleep to exec block
+d72f538d292b369881ba77b836b473ecd7965afb 0024583f4dc81f40e7b3948de8b00f320047d96c Hamza@eL <choctitanz@gmail.com> 1687795408 +0100	commit: Added sleep to exec block
+0024583f4dc81f40e7b3948de8b00f320047d96c 4e6e04d3ecf8335284abd3bd6d01d3922af0ca1c Hamza@eL <choctitanz@gmail.com> 1687795458 +0100	commit: Added sleep to exec block
+4e6e04d3ecf8335284abd3bd6d01d3922af0ca1c 3d9ac1d571ebd004de725835ee2ba4b63640afcd Hamza@eL <choctitanz@gmail.com> 1687795507 +0100	commit: Added sleep to exec block
+3d9ac1d571ebd004de725835ee2ba4b63640afcd 1c7744d049e5e4b31b60e9c03b90165badfe7e81 Hamza@eL <choctitanz@gmail.com> 1687795554 +0100	commit: Added sleep to exec block
+1c7744d049e5e4b31b60e9c03b90165badfe7e81 fa763ad4602974276e7b06adaa05362e8a3e084f Hamza@eL <choctitanz@gmail.com> 1687795973 +0100	commit: tst
+fa763ad4602974276e7b06adaa05362e8a3e084f 80ff0dce1bf6bd80ae898986618972ee4e0be2aa Hamza@eL <choctitanz@gmail.com> 1687796028 +0100	commit: tst
+80ff0dce1bf6bd80ae898986618972ee4e0be2aa 431b7244f573a9ef078c85d721e928b821f67201 Hamza@eL <choctitanz@gmail.com> 1687796057 +0100	commit: tst
+431b7244f573a9ef078c85d721e928b821f67201 2c21da62dbe6c910839e3d8508b438f80385babe Hamza@eL <choctitanz@gmail.com> 1687796142 +0100	commit: tst
+2c21da62dbe6c910839e3d8508b438f80385babe c5b39b23d303a73f31bf3ee6a15acbed3a8a0a22 Hamza@eL <choctitanz@gmail.com> 1687796307 +0100	commit: tst
+c5b39b23d303a73f31bf3ee6a15acbed3a8a0a22 be46e0df86b7cd8fc8e5b8f8943f819c904ac0cb Hamza@eL <choctitanz@gmail.com> 1687797140 +0100	commit: tst
+be46e0df86b7cd8fc8e5b8f8943f819c904ac0cb b27436d9428451f25983a0e9b0d08f7715e3fecb Hamza@eL <choctitanz@gmail.com> 1687797172 +0100	commit: tst
+b27436d9428451f25983a0e9b0d08f7715e3fecb facdfd46b1079890b879104c29c55bd9defe6c77 Hamza@eL <choctitanz@gmail.com> 1687797452 +0100	commit: tst
+facdfd46b1079890b879104c29c55bd9defe6c77 4844c5711d9b4644312d3afe5fe9659998a7ab05 Hamza@eL <choctitanz@gmail.com> 1687800625 +0100	commit: tst
+4844c5711d9b4644312d3afe5fe9659998a7ab05 ce759e506591d7b7ee0e430c5bdcbb1b91d3357b Hamza@eL <choctitanz@gmail.com> 1687801190 +0100	commit: test state
+ce759e506591d7b7ee0e430c5bdcbb1b91d3357b 489cabb56257818c0bc3e892dfa023371a2e778a Hamza@eL <choctitanz@gmail.com> 1687801793 +0100	commit: Final commit
+489cabb56257818c0bc3e892dfa023371a2e778a 476e89b3ead3cbe4cdf8d3b77c70d1f269c925f0 Hamza@eL <choctitanz@gmail.com> 1687802093 +0100	commit: Final commit
+476e89b3ead3cbe4cdf8d3b77c70d1f269c925f0 0ea0af2ca9543509e89db31b8d903442d37633c4 Hamza@eL <choctitanz@gmail.com> 1687802250 +0100	commit: Final commit
+0ea0af2ca9543509e89db31b8d903442d37633c4 440554a2f5327381effd1edc90c80212eeb86a45 Hamza@eL <choctitanz@gmail.com> 1687802359 +0100	commit: Final commit
+440554a2f5327381effd1edc90c80212eeb86a45 4f2306d4e9558fe81db94cafbf19e8096e01e809 Hamza@eL <choctitanz@gmail.com> 1687802705 +0100	commit: Final commit
+4f2306d4e9558fe81db94cafbf19e8096e01e809 2265c0fd417ff95cbae14010495b70b6e40c2322 Hamza@eL <choctitanz@gmail.com> 1687802745 +0100	commit: Final commit
+2265c0fd417ff95cbae14010495b70b6e40c2322 6c9399675702f564794a5109b2914272789cbc23 Hamza@eL <choctitanz@gmail.com> 1687802910 +0100	commit: Final commit
+6c9399675702f564794a5109b2914272789cbc23 d35211db29955acd704ad9ac67f4206afb13d5b1 Hamza@eL <choctitanz@gmail.com> 1687802940 +0100	commit: Final commit
+d35211db29955acd704ad9ac67f4206afb13d5b1 9e6e0483cf46fba3aa93b713634868a53040e621 Hamza@eL <choctitanz@gmail.com> 1687803017 +0100	commit: Final commit
+9e6e0483cf46fba3aa93b713634868a53040e621 1c33eebb5c33b368c85002bd64fe3c9e469f5811 Hamza@eL <choctitanz@gmail.com> 1687803420 +0100	commit: Final commit
+1c33eebb5c33b368c85002bd64fe3c9e469f5811 a49c4daa349ce29bd60a48fad79ccfae290e9ae1 Hamza@eL <choctitanz@gmail.com> 1687803684 +0100	commit: Final commit
+a49c4daa349ce29bd60a48fad79ccfae290e9ae1 43a3d2b1eb13f5bc9c2f79a47e04e3eca1d2814f Hamza@eL <choctitanz@gmail.com> 1687805590 +0100	commit: last test
+43a3d2b1eb13f5bc9c2f79a47e04e3eca1d2814f 7aa1fc0dacb5f60365543229960b0bc09c1d921d Hamza@eL <choctitanz@gmail.com> 1687805728 +0100	commit: last test
+7aa1fc0dacb5f60365543229960b0bc09c1d921d 1923ff78aecbff33b5721b4b9f2c6b1519c34e79 Hamza@eL <choctitanz@gmail.com> 1687805821 +0100	commit: last test
+1923ff78aecbff33b5721b4b9f2c6b1519c34e79 e18243fbbec99e8ca8638582e2f12725e7e804f8 Hamza@eL <choctitanz@gmail.com> 1687806031 +0100	commit: last test
+e18243fbbec99e8ca8638582e2f12725e7e804f8 3e64878116faf40c891fd21c3b946bd4d3870603 Hamza@eL <choctitanz@gmail.com> 1687806292 +0100	commit: last test
+3e64878116faf40c891fd21c3b946bd4d3870603 086ada486da1d7b1042fac844fbbc3b4d1d8d16e Hamza@eL <choctitanz@gmail.com> 1687807069 +0100	commit: last test
+086ada486da1d7b1042fac844fbbc3b4d1d8d16e 0000000000000000000000000000000000000000 Hamza@eL <choctitanz@gmail.com> 1687807250 +0100	Branch: renamed refs/heads/main to refs/heads/main
+086ada486da1d7b1042fac844fbbc3b4d1d8d16e 086ada486da1d7b1042fac844fbbc3b4d1d8d16e Hamza@eL <choctitanz@gmail.com> 1687807250 +0100	Branch: renamed refs/heads/main to refs/heads/main
+086ada486da1d7b1042fac844fbbc3b4d1d8d16e 3a02453f5c9172fba6e20551a27e286217ce8831 Hamza@eL <choctitanz@gmail.com> 1687818954 +0100	pull origin main: Fast-forward
+3a02453f5c9172fba6e20551a27e286217ce8831 086ada486da1d7b1042fac844fbbc3b4d1d8d16e Hamza@eL <choctitanz@gmail.com> 1687818960 +0100	checkout: moving from main to testsecondary
+086ada486da1d7b1042fac844fbbc3b4d1d8d16e 3a02453f5c9172fba6e20551a27e286217ce8831 Hamza@eL <choctitanz@gmail.com> 1687818971 +0100	pull origin main: Fast-forward
+3a02453f5c9172fba6e20551a27e286217ce8831 873f164060f8b69c54da1bd822169b4d35fc1b35 Hamza@eL <choctitanz@gmail.com> 1687819014 +0100	commit: sec
+873f164060f8b69c54da1bd822169b4d35fc1b35 688c901061534e251613856b51eddd301f332ff6 Hamza@eL <choctitanz@gmail.com> 1687819978 +0100	commit: added readme
